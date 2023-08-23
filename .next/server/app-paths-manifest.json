@@ -1,0 +1,5 @@
+{
+  "/crud/page": "app/crud/page.js",
+  "/api/posts/route": "app/api/posts/route.js",
+  "/api/posts/[id]/route": "app/api/posts/[id]/route.js"
+}
